@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b80e0c9615afda8bb37b59ff",
+  "owner": "qtygwkgvm",
+  "repo": "page-f1e1a8cd9a40ad63ee66ab05",
+  "title": "天下无墙",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f1e1a8cd9a40ad63ee66ab05",
+      "a": "天下无墙",
+      "b": "机场官网线路发布页",
+      "entity": "天下无墙",
+      "brand": "天下无墙",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "5889c23576eb811c0d8424b74d77468421e272798daa439e87338cb43dbbdc8c",
+      "content": {
+        "primary_entity": "天下无墙",
+        "keyword1": "天下无墙",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，天下无墙海外加速器面向跨境访问场景，提供基础版、旗舰版与团队版三档订阅。基础版每月15元含100GB流量，支持3台设备；旗舰版每月35元含300GB流量，支持5台设备并优化游戏线路；团队版每月85元含1000GB流量，支持20台设备。按年付可节省两个月费用。",
+          "AI_HERO_SUBTITLE": "三档订阅覆盖个人到团队",
+          "AI_HERO_INTRO": "天下无墙海外加速器提供基础版、旗舰版和团队版三档订阅，按月付费，也可选择年付方案。流量从每月100GB到1000GB，设备数从3台到20台，满足个人日常访问、流媒体观看与团队协同等不同场景。",
+          "AI_VISUAL_TITLE": "选一档订阅，开箱即用",
+          "AI_HIGHLIGHT_1": "基础版月付15元100GB",
+          "AI_HIGHLIGHT_2": "旗舰版IPLC线路游戏优化",
+          "AI_HIGHLIGHT_3": "团队版20台设备1000GB",
+          "AI_FEATURES_TITLE": "套餐与设备搭配",
+          "AI_FEATURES_INTRO": "按设备数量与月流量需求选择对应版本，再结合订阅周期控制预算。",
+          "AI_FEATURE_TITLE_1": "按设备挑版本",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版支持5台，团队版支持20台同时在线。",
+          "AI_FEATURE_TITLE_2": "按流量挑档位",
+          "AI_FEATURE_TEXT_2": "每月100GB适合轻度浏览，300GB适合流媒体，1000GB适合团队共享。",
+          "AI_FEATURE_TITLE_3": "按周期省费用",
+          "AI_FEATURE_TEXT_3": "基础版年付150元，旗舰版年付350元，团队版年付850元，约为十个月价格。",
+          "AI_CLIENTS_TITLE": "客户端与订阅方式",
+          "AI_CLIENTS_INTRO": "不同设备可选择适配的客户端导入订阅，具体操作以各客户端文档为准。",
+          "AI_PLANS_TITLE": "三档订阅对比",
+          "AI_PLANS_INTRO": "基础版、旗舰版和团队版在流量、设备数和线路优化上逐级提升，可按需选择。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "先确定套餐，再确认设备与周期，最后在客户端导入订阅。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量，在基础版、旗舰版和团队版中选定一档。",
+          "AI_STEP_TITLE_2": "确认适配要求",
+          "AI_STEP_TEXT_2": "查看所选版本支持的设备数量、线路类型和计费周期，确认与使用场景匹配。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在对应客户端中按文档导入订阅信息，完成连接设置。",
+          "AI_FAQ_TITLE": "常见疑问",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版主要差别在哪？",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量，支持3台设备；旗舰版每月300GB流量，支持5台设备，并增加流媒体解锁和IPLC专线游戏优化。选择时可参考日常流量和同时在线设备数。",
+          "AI_FAQ_QUESTION_2": "团队版适合哪些场景？",
+          "AI_FAQ_ANSWER_2": "团队版每月1000GB流量，支持20台设备同时在线，并提供VIP高带宽节点和企业定制路由，适合多人协作、多设备并行访问的团队使用。",
+          "AI_FAQ_QUESTION_3": "年付比月付省多少？",
+          "AI_FAQ_ANSWER_3": "基础版月付15元，年付150元；旗舰版月付35元，年付350元；团队版月付85元，年付850元。年付相当于十个月价格，适合长期稳定使用的用户。",
+          "AI_FAQ_QUESTION_4": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "根据不同设备系统选择对应客户端，按客户端文档导入订阅信息即可。常见客户端支持扫码或粘贴订阅链接，具体方式可参考各客户端帮助文档。",
+          "AI_FAQ_QUESTION_5": "切换套餐后设备数会变吗？",
+          "AI_FAQ_ANSWER_5": "套餐变更后，设备同时在线数以新套餐为准。基础版3台、旗舰版5台、团队版20台，切换后请留意当前连接设备数，避免超出限制。",
+          "AI_CLOSING_TITLE": "按需选套餐",
+          "AI_CLOSING_TEXT": "确认设备数与月流量后，选一档订阅并完成客户端配置即可开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "md322.cn",
+    "host": "md322.cn"
+  },
+  "file_hashes": {
+    "index.html": "090cf11114e8e993cb90c49d2ed53be4d2cc61cdc8746436163265745c2389e2",
+    "sitemap.xml": "d9e93cc0feb610bbb91c45d5bd5688de0c77c185c61b70f2504eecc486a3c430",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "dc2ad52f7d46a83c5bca19d31d055a12f7e56ec870fe476e096e13299bf967ae",
+    "robots.txt": "c83e94c0cf70c1262bd0e04876272f1cd968fe81f0bb2de24d6d38f992c7ba31",
+    "2b97774ad9e240260ea8416ab0c81eac.txt": "05d3a5b86fb437d51786109b0d2d14f725f2d67c8eaf6d99ec77a926a0622fa7"
+  },
+  "revision": "61f4dd985a3fc1af5b87a279357c0aaa829d9b5c4c1c3ca0bebf7762fabc6935"
+}
